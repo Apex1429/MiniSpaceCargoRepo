@@ -5,15 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Blueprints/CoreGameInstance.uasset",
-				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Blueprints/BP_PlayerController.uasset",
-				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/GameFiles/BP_GameBase.uasset",
-				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/HUD/HUDMain.uasset",
-				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/HUD/HUDInterface.uasset",
-				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/GameData/StarSystemStruct.uasset",
-				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/GameData/LocationData.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Main.umap",
-				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Levels/Main.umap",
 				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/GameFiles/Main.umap",
 				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Systems/Main.umap",
 				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Temp_Assets/2DSpaceshipsFreeTrial/Textures/Background/_top.uasset",
@@ -114,7 +106,22 @@
 				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Temp_Assets/Sci-Fi_UI/_SciFi_GUISkin_/Bonus_Assets/arrows/long_arrow_right.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Temp_Assets/Sci-Fi_UI/_SciFi_GUISkin_/Bonus_Assets/arrows/long_arrow_left.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Temp_Assets/Sci-Fi_UI/_SciFi_GUISkin_/Bonus_Assets/arrows/arrow1_left.uasset",
-				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Temp_Assets/Sci-Fi_UI/_SciFi_GUISkin_/atlas.uasset"
+				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Temp_Assets/Sci-Fi_UI/_SciFi_GUISkin_/atlas.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/HUD/HUDMain.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/HUD/HUDInterface.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/GameData/Struct_StarShips.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Systems/EarthDock.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Temp_Assets/DockBackground/DkP7527XcAAl7Pv.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/HUD/HUDMenu.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Blueprints/CoreGameInstance.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Blueprints/BP_PlayerController.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/GameFiles/BP_GameBase.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/HUD/HUDMain.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/HUD/HUDInterface.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/GameData/StarSystemStruct.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/GameData/LocationData.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/MiniSpaceCargoRepo/MiniSpaceCargo/Content/Levels/Main.umap"
 			]
 		}
 	]
